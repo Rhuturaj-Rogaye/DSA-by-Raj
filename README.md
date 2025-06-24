@@ -19,7 +19,9 @@ Each file represents one problem, practice, or implementation.
   
 ## ✅ Link to my Github
 
-https://github.com/Rhuturaj-Rogaye/DSA-by-Raj
+
+[![GitHub Repo](https://img.shields.io/badge/GitHub-DSA--by--Raj-blue?style=for-the-badge&logo=github)](https://github.com/Rhuturaj-Rogaye/DSA-by-Raj)
+
 
 ## ▶ How to Run
 Use any C++ compiler:
