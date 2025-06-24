@@ -52,9 +52,42 @@ Use any C++ compiler to compile and run files:
 g++ filename.cpp -o filename && ./filename
 ```
 
+## 📂 Folder Structure
+```
+DSA-by-Raj/
+│
+├── Arrays/
+│   └── code01.cpp
+│   └── code02.cpp
+├── Strings/
+│   └── reverse.cpp
+├── LinkedLists/
+│   └── insertAtEnd.cpp
+├── Trees/
+│   └── inorderTraversal.cpp
+├── README.md
+├── .gitignore
+└── LICENSE
+```
+
 ## 🔗 GitHub Repository
 
 [![GitHub Repo](https://img.shields.io/badge/GitHub-DSA--by--Raj-blue?style=for-the-badge&logo=github)](https://github.com/Rhuturaj-Rogaye/DSA-by-Raj)
 
+## 🤝 Contributing
 
+Contributions are welcome!
+
+- Fork this repo
+- Create a new branch (`git checkout -b feature-name`)
+- Add your DSA code with proper file name and topic folder
+- Commit your changes (`git commit -m "Added [topic] - [problem name]"`)
+- Push to your fork and create a Pull Request
+
+Please format code cleanly and add comments where needed.
+
+
+## 📄 License
+
+This project is licensed under the [MIT License](LICENSE).
 
