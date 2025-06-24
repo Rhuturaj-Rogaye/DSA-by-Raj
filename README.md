@@ -50,8 +50,11 @@ Welcome to my Data Structures & Algorithms (DSA) repository! This is a collectio
 Use any C++ compiler to compile and run files:
 ```bash
 g++ filename.cpp -o filename && ./filename
+```
 
+## 🔗 GitHub Repository
 
+[![GitHub Repo](https://img.shields.io/badge/GitHub-DSA--by--Raj-blue?style=for-the-badge&logo=github)](https://github.com/Rhuturaj-Rogaye/DSA-by-Raj)
 
 
 
