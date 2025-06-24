@@ -1,12 +1,23 @@
-# 🧠 DSA Practice in C++
+# 🧠 DSA-by-Raj
 
-This repository contains my personal Data Structures and Algorithms (DSA) practice codes written in C++.
+Welcome to my Data Structures & Algorithms (DSA) repository! This is a collection of my C++ practice problems and solutions, categorized by topic — ideal for coding interviews and strengthening problem-solving skills.
 
-## 🗂 Structure
+---
 
-Each file represents one problem, practice, or implementation.
+## 📌 Table of Contents
 
-## 📦 Topics Covered
+- [🧠 Topics Covered](#topics-covered)
+- [📈 Progress Tracker](#progress-tracker)
+- [▶ How to Run](#how-to-run)
+- [📂 Folder Structure](#folder-structure)
+- [🔗 GitHub Repository](#github-repository)
+- [🤝 Contributing](#contributing)
+- [📄 License](#license)
+
+---
+
+## 🧠 Topics Covered
+
 - Arrays
 - Strings
 - Sorting
@@ -16,17 +27,31 @@ Each file represents one problem, practice, or implementation.
 - Trees
 - Graphs
 - Dynamic Programming
-  
-## ✅ Link to my Github
 
+---
 
-[![GitHub Repo](https://img.shields.io/badge/GitHub-DSA--by--Raj-blue?style=for-the-badge&logo=github)](https://github.com/Rhuturaj-Rogaye/DSA-by-Raj)
+## 📈 Progress Tracker
 
+| Topic               | Total Problems | Solved | Last Updated |
+|---------------------|----------------|--------|---------------|
+| Arrays              | 50             | 10     | June 2025     |
+| Strings             | 40             | 5      | June 2025     |
+| Linked Lists        | 30             | 3      | June 2025     |
+| Stack & Queue       | 25             | 2      | June 2025     |
+| Trees               | 20             | 1      | June 2025     |
+| Graphs              | 25             | 0      | ---           |
+| Dynamic Programming | 50             | 2      | June 2025     |
+| *Total*           | *240*        | *23* |               |
+
+---
 
 ## ▶ How to Run
-Use any C++ compiler:
+
+Use any C++ compiler to compile and run files:
 ```bash
-g++ code.cpp -o code && ./code
+g++ filename.cpp -o filename && ./filename
+
+
 
 
 
