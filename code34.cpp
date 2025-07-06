@@ -1,22 +1,23 @@
 #include<iostream>
 
 using namespace std;
-
-int main() {
-    int arr[]={1,2,3,4,5};
-    int n=5;
-    for (int st = 0; st < n; st++)
+int LinearArray(int arr[],int sz, int target){
+    for (int i = 0; i < sz; i++)
     {
-        for (int end = st; end < n; end++)
-        {
-            for (int i = st; i <= end; i++)
-            {
-                cout<<arr[i];
-            }
-            cout<<" ";
+        if(arr[i]==target){
+            return i;
         }
-        cout<<endl;
     }
+    return -1;
+}
+int main() {
+    int arr[]={4,2,7,8,1,2,5};
+    int sz = 7;
+    int target = 5;
+    
+    cout<<LinearArray(arr,sz,target);
+
+    
     
     return 0;
 }
