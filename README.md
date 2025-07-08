@@ -77,15 +77,15 @@ DSA-by-Raj/
 ## 🤝 Contributing
 
 Contributions are welcome!
+I’d love for others to contribute DSA problems here!
 
-- Fork this repo
-- Create a new branch (`git checkout -b feature-name`)
-- Add your DSA code with proper file name and topic folder
-- Commit your changes (`git commit -m "Added [topic] - [problem name]"`)
-- Push to your fork and create a Pull Request
+Here’s how:
+- Fork the repo and create a new branch (git checkout -b your-feature)
+- Add your solution with a clear filename and topic folder
+- Write clean commit messages like: Added [topic] - [problem name]
+- Submit a pull request after pushing
 
-Please format code cleanly and add comments where needed.
-
+Please make sure your code is readable and well-commented.
 
 ## 📄 License
 
