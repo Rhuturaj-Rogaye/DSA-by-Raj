@@ -33,8 +33,8 @@ vector<int> pairSum(vector<int> arr, int target){
 
 int main() {
     vector<int> arr = {2, 7, 11, 15};
-    int target = 13;
+    int target = 26;
     vector<int> ans= pairSum(arr, target);
-    cout<< ans[0]<<" , "<<ans[1];
+    cout<< ans[0]<<" , "<<ans[1]; 
     return 0;
 }
